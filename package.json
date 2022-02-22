@@ -1,0 +1,16 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "class 101 웹개발자 사관학교",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "supervisor": "^0.12.0"
+  }
+}
